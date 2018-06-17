@@ -1,0 +1,23 @@
+{
+  "name": "@ahinnovate/successresponse",
+  "version": "0.0.1",
+  "description": "success response",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahinnovate/successresponse.git"
+  },
+  "keywords": [
+    "success",
+    "response"
+  ],
+  "author": "ahinnovate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahinnovate/successresponse/issues"
+  },
+  "homepage": "https://github.com/ahinnovate/successresponse#readme"
+}
